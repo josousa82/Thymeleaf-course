@@ -1,6 +1,6 @@
 # Thymeleaf Course Project
 
-One Paragraph of project description goes here
+Project Related to thymeleaf course. Objective is to learn thymeleaf template engine.
 
 ### Build Status
 
