@@ -5,8 +5,6 @@ One Paragraph of project description goes here
 ### Build Status
 
 #### Code Quality
-
-#### Code Quality
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5eca5dbe73ca4b24a945ad2c2f355326)](https://www.codacy.com/manual/josousa82/Thymeleaf-course/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Thymeleaf-course&amp;utm_campaign=Badge_Grade)
 
 #### CircleCI
