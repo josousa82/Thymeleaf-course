@@ -6,13 +6,13 @@ One Paragraph of project description goes here
 
 #### Code Quality
 
-* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/184b8e4e3c344094b599e2a4fe811951)](https://www.codacy.com/manual/josousa82/Recipe-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Recipe-Project&amp;utm_campaign=Badge_Grade)
+* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/184b8e4e3c344094b599e2a4fe811951)](https://www.codacy.com/manual/josousa82/Thymeleaf-course/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Recipe-Project&amp;utm_campaign=Badge_Grade)
 
 #### CircleCI
-* [![<CircleCI>](https://circleci.com/gh/josousa82/template-repository.svg?style=shield)](https://circleci.com/gh/josousa82/template-repository)
+* [![<CircleCI>](https://circleci.com/gh/josousa82/Thymeleaf-course.svg?style=shield)](https://circleci.com/gh/josousa82/Thymeleaf-course)
   
 #### TravisCI
-* [![Build Status](https://travis-ci.com/josousa82/template-repository.svg?branch=master)](https://travis-ci.com/josousa82/template-repository) 
+* [![Build Status](https://travis-ci.com/josousa82/Thymeleaf-course.svg?branch=master)](https://travis-ci.com/josousa82/Thymeleaf-course) 
 
 ## Getting Started
 
