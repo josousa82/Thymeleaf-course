@@ -9,9 +9,6 @@ One Paragraph of project description goes here
 
 #### CircleCI
 * [![<CircleCI>](https://circleci.com/gh/josousa82/Thymeleaf-course.svg?style=shield)](https://circleci.com/gh/josousa82/Thymeleaf-course)
-  
-#### TravisCI
-* [![Build Status](https://travis-ci.com/josousa82/Thymeleaf-course.svg?branch=master)](https://travis-ci.com/josousa82/Thymeleaf-course) 
 
 ## Getting Started
 
