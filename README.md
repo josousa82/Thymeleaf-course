@@ -6,7 +6,7 @@ One Paragraph of project description goes here
 
 #### Code Quality
 
-* [![Codacy Badge](https://app.codacy.com/project/badge/Grade/184b8e4e3c344094b599e2a4fe811951)](https://www.codacy.com/manual/josousa82/Thymeleaf-course/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Recipe-Project&amp;utm_campaign=Badge_Grade)
+* [[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5eca5dbe73ca4b24a945ad2c2f355326)](https://www.codacy.com/manual/josousa82/Thymeleaf-course/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Thymeleaf-course&amp;utm_campaign=Badge_Grade)
 
 #### CircleCI
 * [![<CircleCI>](https://circleci.com/gh/josousa82/Thymeleaf-course.svg?style=shield)](https://circleci.com/gh/josousa82/Thymeleaf-course)
