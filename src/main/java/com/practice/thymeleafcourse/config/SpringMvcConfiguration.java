@@ -21,16 +21,14 @@ public class SpringMvcConfiguration implements WebMvcConfigurer {
     @Bean
     public LocaleResolver localeResolver(){
         SessionLocaleResolver sessionLocaleResolver = new SessionLocaleResolver();
-        sessionLocaleResolver.setDefaultLocale(Locale.US);
+        sessionLocaleResolver.setDefaultLocale(Locale.ENGLISH);
         return sessionLocaleResolver;
     }
 
     @Bean
      public LocaleChangeInterceptor localeChangeInterceptor() {
-
          LocaleChangeInterceptor localeChangeInterceptor = new LocaleChangeInterceptor();
          localeChangeInterceptor.setParamName("lang");
-
          return localeChangeInterceptor;
     }
 
