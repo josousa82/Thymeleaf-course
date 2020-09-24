@@ -12,20 +12,17 @@
 </head>
 <body>
 <div class="jumbotron" th:replace="fragments/jumbotron :: jumbotron">
-<!--    <div class="container">-->
-<!--        <h1>Spring Framework Guru</h1>-->
-<!--        <p class="lead" th:text="#{product.courses.headline}">Online Courses for Spring Framework</p>-->
-<!--    </div>-->
+
 </div>
 
 
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1 th:text="#{product.courses.tagline}">Spring Framework Guru - Course Name</h1>
+            <h1 th:text="${product.courseName}">Spring Framework Guru - Course Name</h1>
         </div>
     </div>
-
+    <div class="container">
     <div class="row">
         <div class="col-md-6" >
             <img role="presentation"
@@ -35,8 +32,8 @@
 
         <div class="col-md-4 offset-2" >
             <div>
-                <h2>Course Title</h2>
-                <p>
+                <h2 th:text="${product.courseSubtitle}">Course Title</h2>
+                <p th:text="${product.courseDescription}">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                     tempor incididunt ut labore et dolore magna aliqua. Aliquet nibh praesent
                     tristique magna sit amet purus gravida. At in tellus integer feugiat scelerisque.
@@ -49,7 +46,7 @@
 
         </div>
     </div>
-
+    </div>
     <div class="row">
         <div class="col-md-6 offset-8">
             <button type="button" class="btn btn-primary" th:text="#{product.courses.buynow}">Buy Now!</button>
