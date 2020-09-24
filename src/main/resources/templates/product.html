@@ -11,11 +11,11 @@
     <link href="../static/css/custom/custom_index.css" th:href="@{/css/custom/custom_index.css}" rel="stylesheet" media="screen"/>
 </head>
 <body>
-<div class="jumbotron">
-    <div class="container">
-        <h1>Spring Framework Guru</h1>
-        <p class="lead" th:text="#{product.courses.headline}">Online Courses for Spring Framework</p>
-    </div>
+<div class="jumbotron" th:replace="fragments/jumbotron :: jumbotron">
+<!--    <div class="container">-->
+<!--        <h1>Spring Framework Guru</h1>-->
+<!--        <p class="lead" th:text="#{product.courses.headline}">Online Courses for Spring Framework</p>-->
+<!--    </div>-->
 </div>
 
 
