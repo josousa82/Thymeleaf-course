@@ -9,6 +9,6 @@ import java.util.List;
  * in package - com.practice.thymeleafcourse.services
  **/
 public interface ProductService {
-    Product getProduct(Integer id);
+    Product getProductById(Integer id);
     List<Product> listProducts();
 }
